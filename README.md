@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I’m EndogeneityEngineer</h1>
 
 <p align="center">
-  <em>A dedicated economist and quantitative researcher, specialising in macroeconomics, econometrics, and data science for economic analysis.</em>
+  <em> Specialising in macroeconomics, econometrics, and data science for economic analysis.</em>
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ## About Me
 - **Location**: I am based in London, UK.
 - **Language Skills**: Fluent in both English and Spanish.
-- **Academic Background**: I hold a strong grounding in financial mathematics and economics, with particular interests in macro-finance, international trade, and advanced econometric methods.
+- **Academic Background**: I am strongly grounded in financial mathematics and economics, with particular interests in macro-finance, international trade, and advanced econometric methods.
 - **Current Focus**:
   - Applying **machine learning** approaches (e.g., random forests, gradient boosting, and deep learning) to improve macroeconomic forecasting.
   - Investigating **global financial markets** through dynamic time-series modelling (e.g., VAR, SVAR, FAVAR).
@@ -18,14 +18,9 @@
   - Advanced Python workflows for large-scale data analysis (including distributed computing).
   - Bayesian estimation, GMM, and other cutting-edge econometric methods.
 
-
 ---
 
-## Substack Blog
-I maintain a **Substack blog**, where I share analyses on the UK economy.  
-- **lambethreview.substack.com**: [My Substack Blog](#) *(Replace with your actual Substack URL.)*
 
----
 
 ## Selected Projects and Interests
 Here are some examples—actual or forthcoming—of the work I pursue:
@@ -46,25 +41,11 @@ Here are some examples—actual or forthcoming—of the work I pursue:
    - **Goal**: Implement methods such as double machine learning or causal forests to evaluate policy interventions (e.g., minimum wage changes).  
    - **Comparisons**: Benchmark against classical approaches (e.g., Diff-in-Diff, Synthetic Control) to highlight ML advantages.
 
-*Please check back for updates—there are more projects in the pipeline!*
-
----
-
-## Collaboration and Research
-- **Collaborative Work**: I am open to co-authoring or contributing to research projects that bridge quantitative finance, econometric analysis, and data science.  
-- **Potential Contributions**:
-  - Enhancing open-source ML or econometric libraries.
-  - Participating in discussions and reviews of research with substantial quantitative content.
-  - Engaging in cross-disciplinary ventures (e.g., combining economics and NLP).
-
----
 
 ## Technical Proficiencies
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?logo=latex&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 - **Econometrics**: `statsmodels`, `linearmodels`, `arch`, `plm` (R), `lfe` (R)  
 - **Machine Learning**: `scikit-learn`, `xgboost`, `pytorch`, `tensorflow`  
@@ -75,28 +56,23 @@ Here are some examples—actual or forthcoming—of the work I pursue:
 
 ## Contact
 - **GitHub**: Feel free to open an Issue on any of my repositories for feedback or enquiries.
-- **Email**: [YourEmail@domain.com](mailto:YourEmail@domain.com) *(Replace with your actual email address.)*
-- **X (formerly Twitter)**: [@YourXHandle](#) *(Replace with your actual handle.)*
-- **Professional Networking**: [LinkedIn](#) *(Link forthcoming.)*
-- **Substack**: [My Substack Blog](#) *(Replace with your actual Substack link.)*
+- **Email**: [convexityenjoyer@pm.me](mailto:convexityenjoyer@pm.me) 
+-  **X (formerly Twitter)**: [@AscendedYield](https://x.com/AscendedYield)
+- **Substack**: [Lambeth Economic Review](https://lambethreview.substack.com)
+
 
 ---
 
-## Additional Notes
-- **Pronouns**: Flexible (they/he/she).  
-- **Fun Fact**: I have a penchant for visualising global financial flows, a process I find uniquely fascinating!  
-- **Academic Interests**: DSGE modelling, structural identification, panel data, causal inference, and computational economics.
 
----
 
 <details>
 <summary>Further Academic Highlights</summary>
 
 - **Advanced Econometric Methods**: Proficient in handling panel data, GMM, Bayesian inference, and blending machine learning with econometrics.  
-- **Mathematical Foundations**: Well-versed in linear algebra, real analysis, and dynamic optimisation.  
-- **Forthcoming Research**:
-  - Exploring currency misalignment via ML-based equilibrium exchange rate models.
-  - Developing a Python-based econometrics library to streamline macroeconomic research routines.
+
+- **Mathematical Foundations**: Well-versed in linear algebra, real analysis, dynamic optimisation, stochastic processes, dynamic asset pricing theory, and PDEs.
+
+</details>
 
 </details>
 
