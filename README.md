@@ -1,81 +1,72 @@
-<h1 align="center">Hello, I’m EndogeneityEngineer</h1>
+
+<h1 align="center">🚀 EndogeneityEngineer</h1>
 
 <p align="center">
-  <em> Specialising in macroeconomics, econometrics, and data science for economic analysis.</em>
+  <em>MSc Economics candidate seeking junior credit-quant role │ Python • BQL • GenAI • Econometrics</em>
 </p>
 
 ---
 
-## About Me
-- **Location**: I am based in London, UK.
-- **Language Skills**: Fluent in both English and Spanish.
-- **Academic Background**: I am strongly grounded in financial mathematics and economics, with particular interests in macro-finance, international trade, and advanced econometric methods.
-- **Current Focus**:
-  - Applying **machine learning** approaches (e.g., random forests, gradient boosting, and deep learning) to improve macroeconomic forecasting.
-  - Investigating **global financial markets** through dynamic time-series modelling (e.g., VAR, SVAR, FAVAR).
-  - Delving into **international trade** determinants using a blend of classical econometric and data-driven frameworks.
-- **Skills in Development**:
-  - Advanced Python workflows for large-scale data analysis (including distributed computing).
-  - Bayesian estimation, GMM, and other cutting-edge econometric methods.
+## 👋 About Me
+- 📍 **Location:** London, UK  
+- 🎓 **Education:**  
+  - BSc Financial Mathematics  
+  - MSc Economics  
+- 🔬 **Specialisms:**  
+  - 💳 Credit-spread modelling & term-structure analysis  
+  - ⚖️ Continuous-time asset pricing (Ito calculus, pricing kernels, Vasicek)  
+  - 📈 Time-series econometrics (ARDL/ECM, SVAR, GMM)  
+  - 🤖 Generative AI for investment workflows (GPT o3, Gemini 2.5 Pro, NotebookLM)  
+- 🛠️ **Tools & Workflows:**  
+  Python (pandas, Plotly, SQLAlchemy) │ R (tidyverse) │ Bloomberg Terminal (BQL, CRPR, YAS) │ Dynare/MATLAB  
 
 ---
 
-
-
-## Selected Projects and Interests
-Here are some examples—actual or forthcoming—of the work I pursue:
-
-1. **Macro-Finance Analysis**  
-   - **Goal**: Examine how shifts in monetary policy influence asset prices, using both structural and reduced-form VAR techniques.  
-   - **Tools**: Python (`statsmodels`, `linearmodels`), with potential machine learning enhancements.
-
-2. **International Trade & Gravity Models**  
-   - **Goal**: Identify key drivers of bilateral trade flows, employing the classical gravity framework and modern ML algorithms.  
-   - **Tools**: Python or R, focusing on panel data and advanced regression methods.
-
-3. **Asset Pricing & GMM**  
-   - **Goal**: Investigate standard factor models (CAPM, Fama-French) in a GMM framework, potentially augmented by ML-based factor selection.  
-   - **Tools**: Python (`pandas`, `numpy`, `arch` or `linearmodels`), or R for empirical finance.
-
-4. **Causal Inference with Machine Learning**  
-   - **Goal**: Implement methods such as double machine learning or causal forests to evaluate policy interventions (e.g., minimum wage changes).  
-   - **Comparisons**: Benchmark against classical approaches (e.g., Diff-in-Diff, Synthetic Control) to highlight ML advantages.
-
-
-## Technical Proficiencies
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-47A141?logo=latex&logoColor=white)
-
-- **Econometrics**: `statsmodels`, `linearmodels`, `arch`, `plm` (R), `lfe` (R)  
-- **Machine Learning**: `scikit-learn`, `xgboost`, `pytorch`, `tensorflow`  
-- **Data Management**: `pandas`, `dplyr`  
-- **Visualisation**: `matplotlib`, `seaborn`, `ggplot2`, `plotly`
+## 🔧 Technical Stack
+| Category                       | Tools & Libraries                                      |
+|--------------------------------|--------------------------------------------------------|
+| **Programming & Scripting**    | Python • R • MATLAB/Dynare • SQL • LaTeX               |
+| **Market Data & Tools**        | Bloomberg Terminal (BQL, CRPR, YAS, GC, DES, ECO) • Excel (Power Query) |
+| **Econometrics & Modelling**   | ARDL/ECM • SVAR • GMM • DSGE simulation • Pricing kernels • Vasicek models |
+| **AI & Automation**            | OpenAI GPT-4o API • LangChain • Gemini 2.5 • NotebookLM |
+| **Visualisation**              | Plotly • Matplotlib • Chart.js                         |
 
 ---
 
-## Contact
-- **GitHub**: Feel free to open an Issue on any of my repositories for feedback or enquiries.
-- **Email**: [convexityenjoyer@pm.me](mailto:convexityenjoyer@pm.me) 
--  **X (formerly Twitter)**: [@AscendedYield](https://x.com/AscendedYield)
-- **Substack**: [Lambeth Economic Review](https://lambethreview.substack.com)
+## 🚀 Selected Research & Projects
 
+### 🔍 QE & UK Manufacturing  
+**MSc Econometrics**  
+- Developed and estimated an ARDL–ECM on 126 monthly observations (Jul 2009–Dec 2019) to isolate short- and long-run effects of BoE QE stock on manufacturing output and bank lending.  
+- Selected lags via AIC, implemented the error-correction form, and conducted Pesaran–Shin bounds tests (no cointegration detected).  
+- Ran diagnostic checks (Ljung–Box, ARCH, Jarque–Bera) to verify model validity.  
+- Found ∆ln GVA drives short-run output changes while QE and lending flows were insignificant—indicating a weak lending channel and the need for targeted credit policy.
+
+### ⚙️ Fiscal Policy in Dynare  
+**MSc Macroeconomics**  
+- Configured a Baxter–King DSGE model in Dynare with adaptive consumption, labour-income and capital-income tax rules calibrated to UK steady-state targets.  
+- Simulated 40-period impulse-response functions to shocks in each tax instrument, analysing impacts on output, consumption, investment, capital stocks and labour supply.  
+- Quantified distortionary effects and macro multipliers of alternative tax-financing schemes, informing optimal fiscal design.
+
+### 📊 Dissertation: QE Transmission Channels  
+**“Transmission Channels of Quantitative Easing to the UK Manufacturing Sector: A Dynamic Econometric Analysis (2009–2024)”**  
+- **Research Question:** Assess how BoE QE programmes influenced UK manufacturing output via credit volumes, bond spreads and macro-financial channels, and how these effects varied across QE phases and sub-sectors.  
+- **Data:** BoE QE Asset Purchase Facility holdings; ONS manufacturing indices; controls for inflation, exchange rates and Bank Rate.  
+- **Methods:** ARDL models with error-correction to estimate long-run relationships; SVARs to trace dynamic transmission; robustness checks for structural breaks and sectoral heterogeneity; Python–BQL dashboard for real-time monitoring.  
+- **References:**  
+  - Bernanke & Gertler (1995), _Inside the Black Box: The Credit Channel_  
+  - Joyce, Tong & Woods (2011), _BoE QE Policy_  
+  - Bridges & Thomas (2012), _Impact of QE on the UK Economy_  
+  - Kapetanios et al. (2012), _Economy-Wide Effects of QE_  
+  - Joyce et al. (2012), _Quantitative Easing – An Introduction_
 
 ---
 
-
-
-<details>
-<summary>Further Academic Highlights</summary>
-
-- **Advanced Econometric Methods**: Proficient in handling panel data, GMM, Bayesian inference, and blending machine learning with econometrics.  
-
-- **Mathematical Foundations**: Well-versed in linear algebra, real analysis, dynamic optimisation, stochastic processes, dynamic asset pricing theory, and PDEs.
-
-</details>
-
-</details>
+## 📫 Get in Touch
+- ✉️ **Email:** [convexityenjoyer@pm.me](mailto:convexityenjoyer@pm.me)  
+- 🔗 **LinkedIn:** [linkedin.com/in/daniel-troncoso-najera](https://www.linkedin.com/in/daniel-troncoso-najera/)  
 
 <p align="center">
-  <i>Thank you for visiting my profile. Please do explore my repositories or reach out if you would like to collaborate on data-intensive or econometrically rigorous projects.</i>
+  <em>Explore my repositories or reach out to collaborate on credit-quant and AI-driven finance projects.</em>
 </p>
+
